@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<testsuite errors="0" failures="5" hostname="Allmighty-Power" name="Viikko1Test" skipped="0" tests="6" time="0.053" timestamp="2017-03-12T21:39:11">
+<testsuite errors="0" failures="3" hostname="Allmighty-Power" name="Viikko1Test" skipped="0" tests="6" time="0.058" timestamp="2017-03-12T22:00:21">
   <properties>
     <property name="libs.jsp-compiler.javadoc" value="" />
     <property name="netbeans.autoupdate.country" value="FI" />
@@ -10,7 +10,7 @@
     <property name="ant.core.lib" value="C:\Program Files\tmcbeans\extide\ant\lib\ant.jar" />
     <property name="javadoc.windowtitle" value="" />
     <property name="libs.jsp-compilation.javadoc" value="" />
-    <property name="user.dir" value="C:\Users\Kristian Lauttamus\Documents\NetBeansProjects\Viikko1" />
+    <property name="user.dir" value="C:\Users\Kristian Lauttamus\Documents\NetBeansProjects\TIRAopiskelu\Viikko1" />
     <property name="libs.javaee-api-7.0.src" value="" />
     <property name="java.vm.version" value="25.101-b13" />
     <property name="libs.MySQLDriver.classpath" value="C:\Program Files\tmcbeans\ide\modules\ext\mysql-connector-java-5.1.23-bin.jar" />
@@ -52,7 +52,7 @@
     <property name="copylibs.rebase" value="true" />
     <property name="libs.spring-webmvc3.0.maven-pom" value="" />
     <property name="libs.swing-layout.maven-pom" value="" />
-    <property name="sun.java.command" value="org.apache.tools.ant.taskdefs.optional.junit.JUnitTestRunner Viikko1Test skipNonTests=false filtertrace=true haltOnError=false haltOnFailure=false showoutput=true outputtoformatters=true logfailedtests=true threadid=0 logtestlistenerevents=true formatter=org.apache.tools.ant.taskdefs.optional.junit.BriefJUnitResultFormatter formatter=org.apache.tools.ant.taskdefs.optional.junit.XMLJUnitResultFormatter,C:\Users\Kristian Lauttamus\Documents\NetBeansProjects\Viikko1\build\test\results\TEST-Viikko1Test.xml crashfile=C:\Users\Kristian Lauttamus\Documents\NetBeansProjects\Viikko1\build\junitvmwatcher2781580346717873025.properties propsfile=C:\Users\Kristian Lauttamus\Documents\NetBeansProjects\Viikko1\build\junit2755473780670672113.properties" />
+    <property name="sun.java.command" value="org.apache.tools.ant.taskdefs.optional.junit.JUnitTestRunner Viikko1Test skipNonTests=false filtertrace=true haltOnError=false haltOnFailure=false showoutput=true outputtoformatters=true logfailedtests=true threadid=0 logtestlistenerevents=true formatter=org.apache.tools.ant.taskdefs.optional.junit.BriefJUnitResultFormatter formatter=org.apache.tools.ant.taskdefs.optional.junit.XMLJUnitResultFormatter,C:\Users\Kristian Lauttamus\Documents\NetBeansProjects\TIRAopiskelu\Viikko1\build\test\results\TEST-Viikko1Test.xml crashfile=C:\Users\Kristian Lauttamus\Documents\NetBeansProjects\TIRAopiskelu\Viikko1\build\junitvmwatcher8147713516233925990.properties propsfile=C:\Users\Kristian Lauttamus\Documents\NetBeansProjects\TIRAopiskelu\Viikko1\build\junit9090332855652990933.properties" />
     <property name="build.classes.dir" value="build/classes" />
     <property name="build.sysclasspath" value="ignore" />
     <property name="ap.supported.internal" value="true" />
@@ -88,7 +88,7 @@
     <property name="javac.debug" value="true" />
     <property name="javadoc.splitindex" value="true" />
     <property name="file.separator" value="\" />
-    <property name="ant.file.Viikko1-impl" value="C:\Users\Kristian Lauttamus\Documents\NetBeansProjects\Viikko1\nbproject\build-impl.xml" />
+    <property name="ant.file.Viikko1-impl" value="C:\Users\Kristian Lauttamus\Documents\NetBeansProjects\TIRAopiskelu\Viikko1\nbproject\build-impl.xml" />
     <property name="libs.junit_4.maven-pom" value="" />
     <property name="mkdist.disabled" value="false" />
     <property name="javac.test.processorpath" value=":build/classes:C:\Program Files\tmcbeans\platform\modules\ext\junit-4.12.jar:C:\Program Files\tmcbeans\platform\modules\ext\hamcrest-core-1.3.jar" />
@@ -114,7 +114,7 @@
     <property name="libs.spring-framework400.src" value="" />
     <property name="libs.PostgreSQLDriver.src" value="" />
     <property name="sun.arch.data.model" value="64" />
-    <property name="basedir" value="C:\Users\Kristian Lauttamus\Documents\NetBeansProjects\Viikko1" />
+    <property name="basedir" value="C:\Users\Kristian Lauttamus\Documents\NetBeansProjects\TIRAopiskelu\Viikko1" />
     <property name="libs.jpa20-persistence.maven-pom" value="" />
     <property name="jar.compress" value="false" />
     <property name="libs.javaee-web-api-7.0.classpath" value="C:\Program Files\tmcbeans\enterprise\modules\ext\javaee-web-api-7.0.jar" />
@@ -142,7 +142,7 @@
     <property name="https.nonProxyHosts" value="localhost|127.0.0.1|Allmighty-Power" />
     <property name="libs.PostgreSQLDriver.maven-pom" value="" />
     <property name="java.class.version" value="52.0" />
-    <property name="ant.file.Viikko1" value="C:\Users\Kristian Lauttamus\Documents\NetBeansProjects\Viikko1\build.xml" />
+    <property name="ant.file.Viikko1" value="C:\Users\Kristian Lauttamus\Documents\NetBeansProjects\TIRAopiskelu\Viikko1\build.xml" />
     <property name="libs.hibernate4-persistencemodelgen.maven-pom" value="" />
     <property name="libs.javaee-endorsed-api-6.0.src" value="" />
     <property name="libs.eclipselink.javadoc" value="C:\Program Files\tmcbeans\java\modules\ext\docs\javax.persistence-2.1.0-doc.zip" />
@@ -157,7 +157,7 @@
     <property name="libs.spring-webmvc4.0.maven-pom" value="" />
     <property name="libs.spring-framework300.src" value="" />
     <property name="libs.jstl.src" value="" />
-    <property name="empty.dir" value="C:\Users\Kristian Lauttamus\Documents\NetBeansProjects\Viikko1\build\empty" />
+    <property name="empty.dir" value="C:\Users\Kristian Lauttamus\Documents\NetBeansProjects\TIRAopiskelu\Viikko1\build\empty" />
     <property name="version-output" value="java version &quot;1.8" />
     <property name="test.binarytestincludes" value="" />
     <property name="libs.hibernate4-persistencemodelgen.src" value="" />
@@ -197,7 +197,7 @@
     <property name="libs.hamcrest.maven-pom" value="" />
     <property name="ant.file.type.Viikko1-impl" value="file" />
     <property name="javac.compilerargs" value="" />
-    <property name="ant.file" value="C:\Users\Kristian Lauttamus\Documents\NetBeansProjects\Viikko1\build.xml" />
+    <property name="ant.file" value="C:\Users\Kristian Lauttamus\Documents\NetBeansProjects\TIRAopiskelu\Viikko1\build.xml" />
     <property name="libs.beans-binding.maven-pom" value="" />
     <property name="libs.hibernate4-support.javadoc" value="C:\Program Files\tmcbeans\java\modules\ext\docs\javax.persistence-2.1.0-doc.zip" />
     <property name="libs.jsf12.classpath" value="C:\Program Files\tmcbeans\enterprise\modules\ext\jsf-1_2\commons-beanutils.jar;C:\Program Files\tmcbeans\enterprise\modules\ext\jsf-1_2\commons-collections.jar;C:\Program Files\tmcbeans\enterprise\modules\ext\jsf-1_2\commons-digester.jar;C:\Program Files\tmcbeans\enterprise\modules\ext\jsf-1_2\commons-logging.jar;C:\Program Files\tmcbeans\enterprise\modules\ext\jsf-1_2\jsf-api.jar;C:\Program Files\tmcbeans\enterprise\modules\ext\jsf-1_2\jsf-impl.jar" />
@@ -270,7 +270,7 @@
     <property name="annotation.processing.processor.options" value="" />
     <property name="libs.testng.maven-pom" value="" />
     <property name="libs.jaxb.src" value="" />
-    <property name="work.dir" value="C:\Users\Kristian Lauttamus\Documents\NetBeansProjects\Viikko1" />
+    <property name="work.dir" value="C:\Users\Kristian Lauttamus\Documents\NetBeansProjects\TIRAopiskelu\Viikko1" />
     <property name="libs.jaxb.classpath" value="C:\Program Files\tmcbeans\ide\modules\ext\jaxb\jaxb-impl.jar;C:\Program Files\tmcbeans\ide\modules\ext\jaxb\jaxb-xjc.jar;C:\Program Files\tmcbeans\ide\modules\ext\jaxb\jaxb1-impl.jar;C:\Program Files\tmcbeans\ide\modules\ext\jaxb\activation.jar;C:\Program Files\tmcbeans\ide\modules\ext\jaxb\api\jaxb-api.jar;C:\Program Files\tmcbeans\ide\modules\ext\jaxb\api\jsr173_1.0_api.jar" />
     <property name="do.depend" value="false" />
     <property name="dist.javadoc.dir" value="dist/javadoc" />
@@ -288,7 +288,7 @@
     <property name="junit.forkmode" value="perTest" />
     <property name="sun.boot.class.path" value="C:\Program Files\Java\jdk1.8.0_101\jre\lib\resources.jar;C:\Program Files\Java\jdk1.8.0_101\jre\lib\rt.jar;C:\Program Files\Java\jdk1.8.0_101\jre\lib\sunrsasign.jar;C:\Program Files\Java\jdk1.8.0_101\jre\lib\jsse.jar;C:\Program Files\Java\jdk1.8.0_101\jre\lib\jce.jar;C:\Program Files\Java\jdk1.8.0_101\jre\lib\charsets.jar;C:\Program Files\Java\jdk1.8.0_101\jre\lib\jfr.jar;C:\Program Files\Java\jdk1.8.0_101\jre\classes" />
     <property name="javac.target" value="1.8" />
-    <property name="built-jar.properties" value="C:\Users\Kristian Lauttamus\Documents\NetBeansProjects\Viikko1\build\built-jar.properties" />
+    <property name="built-jar.properties" value="C:\Users\Kristian Lauttamus\Documents\NetBeansProjects\TIRAopiskelu\Viikko1\build\built-jar.properties" />
     <property name="build.test.classes.dir" value="build/test/classes" />
     <property name="src.dir" value="src" />
     <property name="libs.jpa2-persistence.src" value="" />
@@ -327,7 +327,7 @@
     <property name="libs.restlib.maven-pom" value="" />
     <property name="libs.jpa2-persistence.javadoc" value="C:\Program Files\tmcbeans\java\modules\ext\docs\javax.persistence-2.1.0-doc.zip" />
     <property name="apple.laf.useScreenMenuBar" value="true" />
-    <property name="java.class.path" value="C:\Users\Kristian Lauttamus\Documents\NetBeansProjects\Viikko1\build\classes;C:\Program Files\tmcbeans\platform\modules\ext\junit-4.12.jar;C:\Program Files\tmcbeans\platform\modules\ext\hamcrest-core-1.3.jar;C:\Users\Kristian Lauttamus\Documents\NetBeansProjects\Viikko1\build\test\classes;C:\Program Files\tmcbeans\extide\ant\lib\ant-launcher.jar;C:\Program Files\tmcbeans\extide\ant\lib\ant.jar;C:\Program Files\tmcbeans\extide\ant\lib\ant-junit.jar;C:\Program Files\tmcbeans\extide\ant\lib\ant-junit4.jar" />
+    <property name="java.class.path" value="C:\Users\Kristian Lauttamus\Documents\NetBeansProjects\TIRAopiskelu\Viikko1\build\classes;C:\Program Files\tmcbeans\platform\modules\ext\junit-4.12.jar;C:\Program Files\tmcbeans\platform\modules\ext\hamcrest-core-1.3.jar;C:\Users\Kristian Lauttamus\Documents\NetBeansProjects\TIRAopiskelu\Viikko1\build\test\classes;C:\Program Files\tmcbeans\extide\ant\lib\ant-launcher.jar;C:\Program Files\tmcbeans\extide\ant\lib\ant.jar;C:\Program Files\tmcbeans\extide\ant\lib\ant-junit.jar;C:\Program Files\tmcbeans\extide\ant\lib\ant-junit4.jar" />
     <property name="do.mkdist" value="true" />
     <property name="libs.absolutelayout.src" value="" />
     <property name="libs.jpa20-persistence.classpath" value="C:\Program Files\tmcbeans\java\modules\ext\eclipselink\javax.persistence_2.1.0.v201304241213.jar" />
@@ -377,15 +377,11 @@
   </properties>
   <testcase classname="Viikko1Test" name="searching_items_that_are_in_the_array_works" time="0.005">
     <failure type="junit.framework.AssertionFailedError">junit.framework.AssertionFailedError
-	at Viikko1Test.searching_items_that_are_in_the_array_works(Viikko1Test.java:87)
+	at Viikko1Test.searching_items_that_are_in_the_array_works(Viikko1Test.java:86)
 </failure>
   </testcase>
-  <testcase classname="Viikko1Test" name="push_and_pop_works" time="0.001">
-    <failure message="expected:&lt;3&gt; but was:&lt;0&gt;" type="junit.framework.AssertionFailedError">junit.framework.AssertionFailedError: expected:&lt;3&gt; but was:&lt;0&gt;
-	at Viikko1Test.push_and_pop_works(Viikko1Test.java:69)
-</failure>
-  </testcase>
-  <testcase classname="Viikko1Test" name="searching_items_that_are_not_in_the_array_works" time="0.001" />
+  <testcase classname="Viikko1Test" name="push_and_pop_works" time="0.0" />
+  <testcase classname="Viikko1Test" name="searching_items_that_are_not_in_the_array_works" time="0.0" />
   <testcase classname="Viikko1Test" name="enqueue_and_dequeue_works" time="0.001">
     <failure message="expected:&lt;1&gt; but was:&lt;0&gt;" type="junit.framework.AssertionFailedError">junit.framework.AssertionFailedError: expected:&lt;1&gt; but was:&lt;0&gt;
 	at Viikko1Test.enqueue_and_dequeue_works(Viikko1Test.java:42)
@@ -396,11 +392,7 @@
 	at Viikko1Test.enqueue_works(Viikko1Test.java:32)
 </failure>
   </testcase>
-  <testcase classname="Viikko1Test" name="push_works" time="0.001">
-    <failure message="expected:&lt;3&gt; but was:&lt;0&gt;" type="junit.framework.AssertionFailedError">junit.framework.AssertionFailedError: expected:&lt;3&gt; but was:&lt;0&gt;
-	at Viikko1Test.push_works(Viikko1Test.java:59)
-</failure>
-  </testcase>
+  <testcase classname="Viikko1Test" name="push_works" time="0.001" />
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>
